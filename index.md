@@ -1,4 +1,4 @@
-<img src="images/desert_photo.png" alt="Lost in Nevada">
+<img src="images/desert_photo.png" alt="Lost in Nevada" width="300" height="300">
 
 ## About Me
 
