@@ -1,3 +1,5 @@
+<img src="images/desert_photo.png" alt="Lost in Nevada">
+
 ## About Me
 
 I am a MASc Student studying Computer Science at UC Santa Cruz. Previously I worked in financial technologies, where I designed transparent underwriting systems for lenders and created portfolio management tools for mortgage servicers. I am interested in Machine Learning, specifically Interpretability, Robustness, and Fairness in ML systems. I want to ensure we create provably ethical AI.
